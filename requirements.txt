@@ -2,3 +2,12 @@ youtube-transcript-api
 pytube
 validators
 unstructured
+python-dotenv
+langchain_community
+streamlit
+langchain
+ipykernel
+langchain_groq
+langchain_core
+
+
