@@ -9,5 +9,7 @@ langchain
 ipykernel
 langchain_groq
 langchain_core
+transformers
+
 
 
